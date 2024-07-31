@@ -1,0 +1,116 @@
+/* Barra de Pesquisa */
+.oque{
+
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 700px;
+    padding: 1%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(131, 131, 131);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.oq{
+    display: flex;
+    justify-content: center;
+}
+
+/* Barra de Pesquisa */
+.ab{
+    position: relative;
+    bottom:  515px;
+    border: 2px solid rgb(194, 194, 194);
+    width: 1325px;
+    padding: 4%;
+    background-color: rgb(194, 194, 194);
+    color: rgb(194, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto {
+    width: 50%; 
+}
+
+/* lupa */
+.foto img {
+    width: 4%; 
+    position: relative;
+    left: 1020px;
+    bottom: 55px;
+}
+
+/* inicio */
+.in{
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    top:  142px;
+    width: 1411px;
+    padding: 1%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* inicio */
+.on{
+    font-size: 12px;
+}
+
+/* marcas */
+.m{
+    position: relative;
+    top: 126px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 1325px;
+    padding: 4%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nike{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.puma{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.adidas{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.vanz{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.bola{
+    display: flex;
+    width: 30px;
+    height: 30px; 
+}
+
+.new_balance{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.loius{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+
+   
+    
