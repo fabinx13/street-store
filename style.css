@@ -1,0 +1,400 @@
+/* Barra de Pesquisa */
+.oque{
+
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    top: 20px;
+    width: 700px;
+    padding: 1%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(131, 131, 131);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.oq{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.my-form {
+    width: 20px;
+}
+
+.cabecalho {
+    background-color: rgb(131, 131, 131);
+}
+
+.foto {
+    width: 50%; 
+}
+
+/* lupa */
+.foto img {
+    width: 4%; 
+    position: relative;
+    left: 935px;
+    bottom: 27px;
+}
+
+/* inicio */
+.in{
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    bottom: 15px;
+    width: 1440px;
+    padding: 1%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* inicio */
+.on{
+    position: relative;
+    font-size: 12px;
+    top: 7px;
+}
+
+/* marcas */
+.m{
+    position: relative;
+    top: -15px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 1440px;
+    padding: 4%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nike{
+    position: relative;
+    width: 70px;
+    left: 205px;
+    bottom: 150px;
+}
+
+.puma{
+    position: relative;
+    width: 65px;
+    left: 325px;
+    bottom: 147px;
+}
+
+.adidas{
+    position: relative;
+    width: 60px;
+    left: -278px;
+    bottom: 153px;
+}
+
+.vanz{
+    position: relative;
+    width: 70px;
+    left: -215px;
+    bottom: 150px;
+}
+
+
+.new_balance{
+    position: relative;
+    width: 70px;
+    left: 268px;
+    bottom: 150px;
+}
+
+.loius{
+    position: relative;
+    width: 50px;
+    left: -758px;
+    bottom: 150px;
+}
+
+.bola{
+    position: relative;
+    width: 100px;
+    left: 200px;
+    bottom: 150px;
+}
+
+.bola2{
+    position: relative;
+    width: 100px;
+    left: 300px;
+    bottom: 150px;
+}
+
+.bola3{
+    position: relative;
+    width: 100px;
+    left: 400px;
+    bottom: 150px;
+}
+
+.bola4{
+    position: relative;
+    width: 100px;
+    left: 500px;
+    bottom: 150px;  
+}
+
+.bola5{
+    position: relative;
+    width: 100px;
+    left: 600px;
+    bottom: 150px; 
+}
+
+.bola6{
+    position: relative;
+    width: 100px;
+    left: 700px;
+    bottom: 150px;
+}
+
+.card{
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card2{
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card3{
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.img5{
+    position: relative;
+    width: 1430px;
+    bottom: 130px;
+    
+}
+
+.img-estrela{
+    position: relative;
+    bottom: 435px;
+    left: 420px;
+    width: 20px;
+}
+
+.img-estrela2{
+    position: relative;
+    bottom: 435px;
+    left: 370px;
+    width: 20px;
+}
+
+.img-estrela3{
+    position: relative;
+    bottom: 435px;
+    left: 320px;
+    width: 20px;
+}
+
+.img-estrela4{
+    position: relative;
+    bottom: 435px;
+    left: 270px;
+    width: 20px;
+}
+
+.img-estrela5{
+    position: relative;
+    bottom: 435px;
+    left: 220px;
+    width: 20px;
+}
+
+
+
+.img-estrela6{
+    position: relative;
+    bottom: 460px;
+    right: -800px;
+    width: 20px;
+}
+
+.img-estrela7{
+    position: relative;
+    bottom: 460px;
+    right: -750px;
+    width: 20px;
+}
+
+.img-estrela8{
+    position: relative;
+    bottom: 460px;
+    right: -700px;
+    width: 20px;
+}
+
+.img-estrela9{
+    position: relative;
+    bottom: 460px;
+    right: -650px;
+    width: 20px;
+}
+
+.img-estrela10{
+    position: relative;
+    bottom: 460px;
+    right: -600px;
+    width: 20px;
+}
+
+
+
+.img-estrela11{
+    position: relative;
+    bottom: 485px;
+    right: -1180px;
+    width: 20px;
+}
+
+.img-estrela12{
+    position: relative;
+    bottom: 485px;
+    right: -1130px;
+    width: 20px;
+}
+
+.img-estrela13{
+    position: relative;
+    bottom: 485px;
+    right: -1080px;
+    width: 20px;
+}
+
+.img-estrela14{
+    position: relative;
+    bottom: 485px;
+    right: -1030px;
+    width: 20px;
+}
+
+.img-estrela15{
+    position: relative;
+    bottom: 485px;
+    right: -980px;
+    width: 20px;
+}
+
+
+.po{
+    position: relative;
+    justify-content: center;
+    border: 2px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    left: 380px;
+    bottom: -10px;
+    width: 600px;
+    height: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.destaque{
+    position: relative;
+    font-size: 25px;
+    right: -70px;
+    bottom: 570px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-title1{
+    position: relative;
+    color: rgb(107, 107, 107);
+    left: -27px;
+}
+
+.card-title2{
+    position: relative;
+    color: rgb(107, 107, 107);
+    left: -27px;
+}
+
+.card-title3{
+    position: relative;
+    color: rgb(107, 107, 107);
+    left: -27px;
+}
+
+.card-text1{
+    position: relative;
+    left: -100px;
+}
+
+.card-text2{
+    position: relative;
+    left: -100px;
+}
+
+.card-text3{
+    position: relative;
+    left: -100px;
+}
+
+.btn1{
+    border: 2px solid rgb(199, 199, 199);
+    width: 1440px;
+    padding: 4%;
+    background-color: rgb(199, 199, 199);
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+
+}
+
+.btn2{
+    border: 2px solid rgb(199, 199, 199);
+    width: 1440px;
+    padding: 4%;
+    background-color: rgb(199, 199, 199);
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+}
+
+.btn3{
+    border: 2px solid rgb(199, 199, 199);
+    width: 1440px;
+    padding: 4%;
+    background-color: rgb(199, 199, 199);
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+}
+
+.street{
+    position: relative;
+    left: 20px;
+    bottom: 1600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carrinho{
+    position: relative;
+    width: 30px;
+    bottom: 1640px;
+    left: 1320px;
+}
+
+.icone{
+    position: relative;
+    width: 60px;
+    bottom: 1640px;
+    left: 1230px;
+}
+
+
+
+   
+    
